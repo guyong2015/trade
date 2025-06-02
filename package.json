@@ -2,6 +2,7 @@
   "name": "announcement-app",
   "version": "0.1.0",
   "private": true,
+ "__comment__": "homepage: '/trade/',   Create React App 会读取 homepage 的值，并将其作为所有静态资源（JS 文件、CSS 文件、图片、字体等）的 URL 前缀", 
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

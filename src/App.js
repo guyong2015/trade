@@ -173,7 +173,7 @@ export default function App() {
             {/* Header */}
             <header className="w-full max-w-md bg-white p-4 rounded-b-lg shadow-md fixed top-0 z-10">
                 <div className="flex items-center justify-between mb-4">
-                    <h1 className="text-2xl font-bold text-blue-600">公告列表</h1>
+                    <h1 className="text-2xl font-bold text-blue-600">信息列表</h1>
                     {/* Placeholder for filter/category icon */}
                     {/* <button className="text-gray-600 hover:text-gray-900 focus:outline-none">
                         <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
